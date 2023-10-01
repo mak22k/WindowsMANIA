@@ -1,0 +1,8 @@
+﻿  Source.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+c:\users\ct-gen\documents\cfinal\finalatschool\finalatschool\source.cpp(415): warning C4244: 'initializing': conversion from 'time_t' to 'unsigned long', possible loss of data
+c:\users\ct-gen\documents\cfinal\finalatschool\finalatschool\source.cpp(1021): warning C4018: '<': signed/unsigned mismatch
+c:\users\ct-gen\documents\cfinal\finalatschool\finalatschool\source.cpp(987): warning C4101: 'p': unreferenced local variable
+c:\users\ct-gen\documents\cfinal\finalatschool\finalatschool\source.cpp(989): warning C4101: 'n': unreferenced local variable
+c:\users\ct-gen\documents\cfinal\finalatschool\finalatschool\source.cpp(988): warning C4101: 'o': unreferenced local variable
+  FinalAtSchool.vcxproj -> C:\Users\ct-gen\Documents\cfinal\FinalAtSchool\Debug\FinalAtSchool.exe
